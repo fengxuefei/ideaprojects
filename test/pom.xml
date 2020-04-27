@@ -7,6 +7,6 @@
     <groupId>com.fxf</groupId>
     <artifactId>test</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies></dependencies>
 
 </project>
